@@ -1,24 +1,68 @@
-<h1 align="center">Hello I'm Hadences🐶</h1>
-<h3 align="center">I am a Computer Science student that codes Minecraft things during my free time :D</h3>
+# <img src="./assets/WMBOBA.png" width = "48"> Hadences | Sunpk
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
+** **
 
-<p align="center"> <a href="https://twitter.com/sun_prk" target="blank"><img src="https://img.shields.io/twitter/follow/sun_prk?logo=twitter&style=for-the-badge" alt="sun_prk" /></a> </p>
+<a href="https://discord.gg/CcDSCUHu">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+alt="discord link" title="Discord link">
+</a>
+<a href = "https://www.youtube.com/@hadences/featured">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+alt="youtube link" title="YouTube link">
+</a>
 
-<p align="center">- 🔭 I’m currently working on **KizukiMod**</p>
+`Computer Science Student / Minecraft Programmer`
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/sun_prk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sun_prk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hadences" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hadences" height="30" width="40" /></a>
-</p>
+Hello! I am a College student studying in Computer Science 
+who mainly codes Minecraft related projects during my free time. 
+Most of my projects are all built from scratch and built for entertainment 
+purposes. I publish most of my Minecraft projects on my YouTube channel 
+"[Hadences](https://www.youtube.com/@hadences/featured)".
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadences&show_icons=true&locale=en&layout=compact" alt="hadences" /></p>
+### <img src="./assets/SAGELurk.png" width = "48"> Languages and Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadences&show_icons=true&locale=en" alt="hadences" /></p>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadences&" alt="hadences" /></p>
+<br />
+<br />
+
+---
+
+
+### <img src="./assets/SAGEHeadpat2.png" width = "48">  YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Gojo Red in Minecraft](https://ytcards.demolab.com/?id=fboTyjEaNQs&title=Gojo+Red+in+Minecraft&lang=en&timestamp=1684373676&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=19 "Gojo Red in Minecraft | Plugin Development")](https://www.youtube.com/watch?v=fboTyjEaNQs)
+[![Insect Breathing in Minecraft](https://ytcards.demolab.com/?id=APZlT6lNlY8&title=Insect+Breathing+in+Minecraft&lang=en&timestamp=1621377409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=15 "Insect breathing in Minecraft")](https://www.youtube.com/watch?v=APZlT6lNlY8)
+[![MHA Server Game in Minecraft](https://ytcards.demolab.com/?id=3Yvk0UT4rNM&title=MHA+Server+Game+in+Minecraft&lang=en&timestamp=1652917009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=99 "MHA server game in Minecraft")](https://www.youtube.com/watch?v=3Yvk0UT4rNM)
+[![Water Breathing in Minecraft](https://ytcards.demolab.com/?id=rjBrv6QWGvA&title=Water+Breathing+in+Minecraft&lang=en&timestamp=1652917009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=99 "Water breathing in Minecraft")](https://www.youtube.com/watch?v=rjBrv6QWGvA)
+
+<!-- END YOUTUBE-CARDS -->
+
+#
+
+### Statistics
+[![Hadences's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadences)](https://github.com/hadences/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadences&layout=compact)](https://github.com/hadences/github-readme-stats)
+
+
+
+
 
