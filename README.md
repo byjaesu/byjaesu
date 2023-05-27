@@ -58,8 +58,6 @@ purposes. I publish most of my Minecraft projects on my YouTube channel
 #
 
 ### Statistics
-[![Hadences's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadences)](https://github.com/hadences/github-readme-stats) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadences&layout=compact)](https://github.com/hadences/github-readme-stats)
 
 
