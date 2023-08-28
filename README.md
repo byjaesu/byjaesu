@@ -1,4 +1,4 @@
-# <img src="./assets/WMBOBA.png" width = "48"> Hadences | Sunpk
+# <img src="./assets/WMBOBA.png" width = "48"> Sunpk
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
 ** **
