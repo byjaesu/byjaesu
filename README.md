@@ -3,7 +3,7 @@
 
 ** **
 
-`Computer Science Student / Avid Game Developer`
+`Computer Science Student / Creative Developer`
 
 Hello! I am a College student studying in Computer Science 
 who mainly codes Minecraft related projects during my free time. 
