@@ -1,4 +1,4 @@
-# <img src="./assets/WMBOBA.png" width = "48"> Hadences
+# <img src="./assets/WMBOBA.png" width = "48"> jaesu (hadences)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
 ** **
