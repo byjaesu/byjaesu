@@ -1,15 +1,15 @@
-# <img src="./assets/WMBOBA.png" width = "48"> jaesu (hadences)
+# <img src="./assets/WMBOBA.png" width = "48"> JAESU (hadences)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
 ** **
 
-`Computer Science Student / Creative Developer`
+`Computer Science Student | (Creative/Game) Developer`
 
 Hello! I am a College student studying in Computer Science 
-who mainly codes Minecraft related projects during my free time. 
+mainly programming simulations/games during my free time (mainly Minecraft). 
 Most of my projects are all built from scratch and built for entertainment 
-purposes. I publish most of my Minecraft projects on my YouTube channel 
-"[Hadences](https://www.youtube.com/@hadences/featured)".
+purposes. I publish most of my projects on my YouTube channel
+"[JAESU](https://www.youtube.com/@hadences/featured)".
 
 ---
 
@@ -25,7 +25,6 @@ purposes. I publish most of my Minecraft projects on my YouTube channel
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 
 <br />
 <br />
