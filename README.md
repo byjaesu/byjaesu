@@ -1,3 +1,5 @@
+<img align="center" alt="Java" width="auto" style="padding-right:10px;" src="./assets/jae.png"/>
+
 # <img src="./assets/WMBOBA.png" width = "48"> JAESU (hadences)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
