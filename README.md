@@ -1,4 +1,4 @@
-<img align="center" alt="Java" width="auto" style="padding-right:10px;" src="./assets/jae.png"/>
+<img align="center" alt="Java" width="auto" style="padding-right:10px;" src="./assets/jae2.png"/>
 
 
 # <img src="./assets/WMBOBA.png" width = "48"> JAESU (hadences)
