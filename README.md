@@ -1,7 +1,7 @@
 <img align="center" alt="Java" width="auto" style="padding-right:10px;" src="./assets/jae2.png"/>
 
 
-# <img src="./assets/WMBOBA.png" width = "48"> JAESU (hadences)
+# <img src="./assets/WMBOBA.png" width = "48"> JAESU (byjaesu)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadences&label=Profile%20views&color=0e75b6&style=flat" alt="hadences" /> </p>
 
 ** **
@@ -12,7 +12,7 @@ Hello! I am a College student studying in Computer Science
 mainly programming simulations/games during my free time (mainly Minecraft). 
 Most of my projects are all built from scratch and built for entertainment 
 purposes. I publish most of my projects on my YouTube channel
-"[JAESU](https://www.youtube.com/@hadences/featured)".
+"[JAESU](https://www.youtube.com/@byjaesu/featured)".
 
 ---
 
